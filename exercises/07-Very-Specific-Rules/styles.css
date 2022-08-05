@@ -1,4 +1,6 @@
-/** Insert your code here **/
+tr:nth-child(odd) {
+	background: yellow;
+}
 
 /*********** READ ONLY BLOCK ******
 You CANNOT UPDATE anything from here on,

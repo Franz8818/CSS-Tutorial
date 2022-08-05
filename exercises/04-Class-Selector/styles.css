@@ -1,3 +1,9 @@
 .b-blue {
-	background: blue;
+	background: whitesmoke;
+	font-size: 28px;
+}
+
+.b-blue2 {
+	background: whitesmoke;
+	font-size: 60px;
 }

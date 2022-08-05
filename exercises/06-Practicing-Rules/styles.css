@@ -1,1 +1,17 @@
-/* add your styles here */
+body {
+	background-image: url(../../.learn/assets/background-vertical.jpg?raw=true);
+	font-family: "Times New Roman", Times, serif;
+	padding-left: 20px;
+}
+h1 {
+	font-family: courier;
+	color: red;
+	text-align: center;
+	padding: 5px;
+}
+a:hover {
+	background-color: green;
+}
+a:link {
+	text-decoration: none;
+}
